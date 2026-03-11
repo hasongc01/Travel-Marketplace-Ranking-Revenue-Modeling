@@ -30,22 +30,6 @@ Dataset size
 | `booking_bool`            | Whether user booked property     |
 | `gross_booking_usd`       | Revenue generated from booking   |
 
-# Repository Structure
-expedia-ranking-model/
-│
-│
-├── notebooks/
-│   └── model_exploration.ipynb
-│
-├── src/
-│   ├── data_cleaning.ipynb
-│   ├── feature_engineering.ipynb
-│   ├── ctr_model.ipynb
-│   ├── booking_model.ipynb
-│   └── ranking_score.ipynb
-│
-└── README.md
-
 # Methodology
 ## 1. Data Cleaning & Preparation
 
