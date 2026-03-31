@@ -49,6 +49,7 @@ Goal: estimate probability that a listing receives a click.
 
 Approach:
 - Logistic regression classifier
+- XGB classifier 
 - Features include position, price, promotions, property attributes
 
 Purpose:
